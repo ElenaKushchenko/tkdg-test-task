@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: tkdg-test-task
+  h2:
+    console:
+      enabled: true
